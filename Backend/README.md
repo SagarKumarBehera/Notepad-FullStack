@@ -1,4 +1,3 @@
-
 ## API Endpoints🌍 :-
 
 🌐 <a href='https://notepad-backend-production.up.railway.app/'>URL</a>
@@ -29,7 +28,6 @@
 
 ✅ Filter ==> ?category=Important/Local
 
-
 Happy Coding 😊!!
 
-- Saurav Chavan 😊
+- Sagar Kumar Behera 😊
