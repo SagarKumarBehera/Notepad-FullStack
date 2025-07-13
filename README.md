@@ -16,12 +16,12 @@ A comprehensive individual full-stack project was successfully completed in seve
 
 ### Signup Page :-
 
-![Screenshot 2024-02-05 135954](https://github.com/SagarKumarBehera/Notepad-FullStack/assets/135011685/bdc4d523-c7f7-450f-95ff-1c99398eafdc)
+![Screenshot 2024-02-05 135954](https://github.com/Saurav9284/Notepad-FullStack/assets/135011685/bdc4d523-c7f7-450f-95ff-1c99398eafdc)
 
 ### Login Page :-
 
-![Screenshot 2024-02-05 135900](https://github.com/SagarKumarBehera/Notepad-FullStack/assets/135011685/ff8a43f2-624a-44cf-9f74-3f28e153d5fd)
+![Screenshot 2024-02-05 135900](https://github.com/Saurav9284/Notepad-FullStack/assets/135011685/ff8a43f2-624a-44cf-9f74-3f28e153d5fd)
 
 ### Homepage :-
 
-![Screenshot 2024-02-05 140213](https://github.com/SagarKumarBehera/Notepad-FullStack/assets/135011685/b39e255f-d471-4d1f-95fd-7bfd9b88ed15)
+![Screenshot 2024-02-05 140213](https://github.com/Saurav9284/Notepad-FullStack/assets/135011685/b39e255f-d471-4d1f-95fd-7bfd9b88ed15)
