@@ -1,0 +1,46 @@
+.navbar {
+  background-color: rgb(255, 255, 255) !important;
+}
+
+.menuitem {
+  cursor: pointer;
+  font-size: large;
+  font-weight: bold !important;
+  color: rgb(92, 86, 86) !important;
+}
+
+.logo {
+  width: 50px!important;
+}
+
+.logoDiv > h1 {
+  color: rgb(93, 175, 230);
+  margin: 8px;
+}
+
+.logoDiv > h1 > span {
+  background: linear-gradient(to right, #f7544b, #531b7e);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.button{
+  background: linear-gradient(to right, #f7544b, #531b7e)!important;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: white!important;
+}
+.formheader{
+  color: #c73d35!important;
+}
+.listbutton{
+  background-color: rgb(45, 45, 152)!important;
+}
+.girdcard{
+  margin-left: 50px!important;
+}
+
+
+
+
